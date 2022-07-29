@@ -24,7 +24,7 @@
 	},
 	"repository": {
     "type": "git",
-    "url": "https://github.com/toanpi/tp-static-analysis-c-c-.git"
+    "url": "https://github.com/toanpi/tp_c_cpp_analyzer.git"
   },
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
