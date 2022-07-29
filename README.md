@@ -1,2 +1,5 @@
-# tp_c_cpp_analyzer
+# C/C++ Code Analyzer
+
 C/C++ Code Analyzer
+
+Author: Toan Pi
